@@ -1,6 +1,6 @@
 ## DataCamp-Projects
 # DataCamp Projects
 
-1- [Introduction to DataCamp Projects] (/DataCamp-Projects/Introduction to DataCamp Projects/notebook_intro.ipynb)
+[Introduction to DataCamp Projects] (https://github.com/IvanDGregor/DataCamp-Projects/blob/master/Introduction%20to%20DataCamp%20Projects/notebook_intro.ipynb)
 
       
